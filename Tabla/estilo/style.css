@@ -1,0 +1,41 @@
+td,
+th{
+  border: 1px solid black ;
+  border-radius: 5px;
+}
+
+table{
+  border-spacing: 5px;
+}
+
+.magistral{
+  background-color: yellow;
+}
+
+.conf{
+  background-color: #e5e6ff;
+}
+
+.general{
+  background-color: blue;
+}
+
+th{
+  background-color: lightblue;
+}
+
+.taller{
+  background-color: pink;
+}
+
+.tutorial{
+  background-color: red;
+}
+
+.infomal{
+  background-color: cacbff;
+}
+
+td span{
+  display: block;
+}
