@@ -9,7 +9,7 @@ table{
 }
 
 .magistral{
-  background-color: yellow;
+  background-color: #bfbfbf;
 }
 
 .conf{
@@ -17,23 +17,23 @@ table{
 }
 
 .general{
-  background-color: blue;
+  background-color: #9798ca;
 }
 
 th{
-  background-color: lightblue;
+  background-color: #b4c2cf;
 }
 
 .taller{
-  background-color: pink;
+  background-color: #9699fe;
 }
 
 .tutorial{
-  background-color: red;
+  background-color: #91cdff;
 }
 
 .infomal{
-  background-color: cacbff;
+  background-color: #cacbff;
 }
 
 td span{
